@@ -1,3 +1,4 @@
+
 color = input("Enter a color: ")
 noun = input("Enter any noun: ")
 celebrity = input("Enter your celebrity name: ")
